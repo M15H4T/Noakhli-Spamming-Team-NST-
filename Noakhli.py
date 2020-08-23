@@ -61,7 +61,7 @@ logo = """
 \033[1;97mAuthor©\033[1;97m: \033[1;92mMd Naim Hossan
 \033[1;97mInstagram\033[1;97m: \033[1;92mhttps://www.Instagram.com/fack.user0
 \033[1;97mFacebook\033[1;97m: \033[1;92mhttps://www.facebook.com/fack.user0
-\033[1;97mWhatsapp\033[1;97m: \033[1;92m+16155558097
+\033[1;97mWhatsapp\033[1;97m: \033[1;92m+8801760743760
 \033[1;97m«--------------------\033[1;92m✧\033[1;97m--------------------»"""
 
 def tik():
