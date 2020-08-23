@@ -1,14 +1,14 @@
-#pkg update && pkg upgrade 
+pkg update && pkg upgrade
 
-#pkg install python2
+pkg install python2
 
-#pkg install git 
+pkg install git
 
-#pip2 install requests 
+pip2 install requests
 
-#pip2 install mechanize 
+pip2 install mechanize
 
-#git clone https://github.com/n57n41m/Noakhli-Spamming-Team-NST-
+git clone https://github.com/n57n41m/Noakhli-Spamming-Team-NST-
 
 #ls
 
